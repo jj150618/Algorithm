@@ -28,6 +28,7 @@
 | 19 | 큐/덱 | 5/7 |
 | 20 | 	분할 정복 | 0/10 |
 | 21 | 이분 탐색 | 4/7 |
+| 22 | 우선순위 큐 | 2/4 |
 
 ## [프로그래머스 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 | 단계 | 제목 | 현황 |
